@@ -1,0 +1,43 @@
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	background-color: violet;
+	overflow: hidden;
+	width: 300px;
+}
+
+
+li {
+	float: left;
+	width: 75;
+}
+
+li a {
+	display: block;
+	color: black;
+	padding: 10px;
+	text-decoration: none;
+	text-align: center;
+}
+
+li a:hover {
+	background-color: purple;
+	color: white;
+}
+
+h1 {
+	font-family: Times, serif;
+	color: purple;
+	text-align: center;
+}
+
+img {
+	width: 300px;
+}
+
+div {
+	padding: 40px;
+	font-family: Times, serif;
+}
